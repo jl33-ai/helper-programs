@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "010559f390a02dcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "823ac8a4ed7c9e49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d070b4693e0dcda",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a2acff1d3e0c95f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f7bc7b17fb7fc46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "149479379637f755",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a5f0c251a0bab0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a731a6102dcdab92",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ffd6cc538a0d5b8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c9e8cc0aead561e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04a117ba58247834",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f3ed5e6fd104ca89",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ec3b6debdb342f1b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cec4df21a84580d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3d070b4693e0dcda",
+  "lastOpenFiles": [
+    "data-science-wiki/autoregressive-integrated-moving-average-arima.md",
+    "data-science-wiki/azure.md",
+    "data-science-wiki/advanced-architectures-e.g.,-transformers,-gpt-models.md",
+    "data-science-wiki/advanced-techniques-for-nlp-and-computer-vision.md",
+    "create_dict.py",
+    "sentiment-analysis.md",
+    "r.md",
+    "outlier-detection-and-treatment.md",
+    "multi-layer-perceptron-mlp.md",
+    "model-selection-techniques.md",
+    "model-deployment-techniques.md",
+    "markov-chain-monte-carlo-mcmc.md",
+    "k-means.md",
+    "hill-climb.md",
+    "hdfs.md",
+    "hyperparameter-tuning.md",
+    "handling-missing-data.md",
+    "ggplot2-r.md",
+    "bias-detection-and-mitigation.md",
+    "beam-search.md",
+    "automated-machine-learning-automl.md",
+    "collaborative-filtering.md",
+    "decision-trees.md",
+    "dplyr-r.md",
+    "effective-communication.md",
+    "ensemble-methods-bagging,-boosting.md",
+    "linear-algebra.md"
+  ]
+}
