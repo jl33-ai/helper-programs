@@ -1,6 +1,6 @@
 import openai   
 
-openai.api_key = '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'
+openai.api_key = 'enter'
 
 topic = input("Enter a topic: ")
 
